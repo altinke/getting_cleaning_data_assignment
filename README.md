@@ -1,4 +1,4 @@
-# getting_cleaning_data_assignment
+# Getting Cleaning Data Assignment
 The final assignment for the Getting and Cleaning data course
 
 Execute the script in RStudio
